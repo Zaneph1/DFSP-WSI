@@ -16,7 +16,7 @@ The complete dataset—including additional cases, annotations, and metadata—w
 
 | Class | Filename Path | Preview |
 |-------|---------------|---------|
-| **CD**  | `CD/CD_19-09867-43-44_RGB_Extended0_256_1black.jpg` | ![CD](CD/19-09867-43-44_RGB_Extended0_256_1black.jpg) |
+| **CD**  | `CD/CD_19-09867-43-44_RGB_Extended0_256_1black.jpg` | ![CD](/CD/19-09867-43-44_RGB_Extended0_256_1black.jpg) |
 | **FD**  | `FD/FD_18-19659_RGB_Extended0_256_1black.jpg` | ![FD](FD/18-19659_RGB_Extended0_256_1black.jpg) |
 | **MD**  | `MD/MD_18-11013-2_RGB_Extended0_256_1black.jpg` | ![MD](MD/18-11013-2_RGB_Extended0_256_1black.jpg) |
 | **BFH** | `BFH/BFH_18-03822_RGB_Extended0_256_1black.jpg` | ![BFH](BFH/18-03822_RGB_Extended0_256_1black.jpg) |
