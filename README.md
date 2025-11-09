@@ -16,11 +16,11 @@ The complete dataset—including additional cases, annotations, and metadata—w
 
 | Class | Filename Path | Preview |
 |-------|---------------|---------|
-| **CD**  | `CD/CD_19-09867-43-44_RGB_Extended0_256_1black.jpg` | ![CD](/CD/_19-09867-43-44_RGB_Extended0_256_1black.jpg) |
-| **FD**  | `FD/FD_18-19659_RGB_Extended0_256_1black.jpg` | ![FD](FD/_18-19659_RGB_Extended0_256_1black.jpg) |
-| **MD**  | `MD/MD_18-11013-2_RGB_Extended0_256_1black.jpg` | ![MD](MD/_18-11013-2_RGB_Extended0_256_1black.jpg) |
-| **BFH** | `BFH/BFH_18-03822_RGB_Extended0_256_1black.jpg` | ![BFH](BFH/_18-03822_RGB_Extended0_256_1black.jpg) |
-| **UPS** | `UPS/UPS_16-14762_RGB_Extended5_256_1black.jpg` | ![UPS](UPS/_16-14762_RGB_Extended5_256_1black.jpg) |
+| **CD**  | `CD/_19-09867-43-44_RGB_Extended0_256_1black.jpg` | ![CD](<img src="/CD/_19-09867-43-44_RGB_Extended0_256_1black.jpg" width="100" height="100">) |
+| **FD**  | `FD/_18-19659_RGB_Extended0_256_1black.jpg` | ![FD](<img src="FD/_18-19659_RGB_Extended0_256_1black.jpg" width="100" height="100">) |
+| **MD**  | `MD/_18-11013-2_RGB_Extended0_256_1black.jpg` | ![MD](<img src="MD/_18-11013-2_RGB_Extended0_256_1black.jpg" width="100" height="100">) |
+| **BFH** | `BFH/_18-03822_RGB_Extended0_256_1black.jpg` | ![BFH](<img src="BFH/_18-03822_RGB_Extended0_256_1black.jpg" width="100" height="100">) |
+| **UPS** | `UPS/_16-14762_RGB_Extended5_256_1black.jpg` | ![UPS](<img src="UPS/_16-14762_RGB_Extended5_256_1black.jpg" width="100" height="100">) |
 
 
 ---
